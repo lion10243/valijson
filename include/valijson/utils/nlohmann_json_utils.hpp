@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-#include <json.hpp>
+#include <nlohmann/json.hpp>
 #include <valijson/utils/file_utils.hpp>
 
 namespace valijson {
